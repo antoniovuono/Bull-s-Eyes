@@ -10,4 +10,8 @@
       <li>Data Models</li>
       <li>Métodos</li>
       <li>Clean Arch</li>
+      <li>Animações</li>
 </ul>
+
+<h2>Rodando o projeto:</h2>
+<p>Para executar o projeto em questao, basta clonar em sua máquina e abrir com o XCODE.</p>
